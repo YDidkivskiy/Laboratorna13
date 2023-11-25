@@ -30,5 +30,6 @@ int main() {
     std::cout << "Матриця:" << std::endl;
     printMatrix(kvmatrix);
 
+
     return 0;
 }
